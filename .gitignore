@@ -1,0 +1,7 @@
+# Environment varaibles
+.env
+
+#Redis 
+
+Redis-x64-3.0.504/
+dump.rdb
